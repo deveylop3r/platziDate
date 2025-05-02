@@ -7,4 +7,5 @@ Una utilidad para manejar fechas en formato timestamp y longtime
 ```bash
 
 npm install platzidate
+
 ```
